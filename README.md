@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+- 👋 Hi, I’m @hahminlew
+- 👀 I’m interested in deep learning-based computer vision.
+- 🌱 I’m currently working on image/video reenactment or swapping and generation as an AI Researcher.
+- 💞️ I’m looking to collaborate on various AI specialists.
+- 📫 How to reach me is hahmin.lew@klleon.io, or hahmin.lew@gmail.com, currently.
 
 <!--
 **hahminlew/hahminlew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
