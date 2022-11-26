@@ -1,5 +1,4 @@
-### 
-- 👋 Hi, I’m @hahminlew
+### - 👋 Hi, I’m @hahminlew
 - 👀 I’m interested in deep learning-based computer vision.
 - 🌱 I’m currently working on image/video reenactment or swapping and generation as an AI Researcher.
 - 💞️ I’m looking to collaborate on various AI specialists.
